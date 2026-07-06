@@ -52,7 +52,7 @@ jobs:
           SITE_TOPIC: "your site's topic here"
           SITE_VOICE: "like a knowledgeable friend texting you a tip, a little wry, not afraid to admit when something's annoying or overrated"
           SITE_INSTRUCTIONS: |
-            - At least some of the time, try to think of more a "niche" topic that someone might search for, and then give them what they're looking for. For example, how to care for a specific type of flower, or how to deal with a specific problem with a specific flower, things like that. The post doesn't always have to be about flowers, those are just examples.
+            - At least some of the time, try to think of more a "niche" topic that someone might search for, and then give them what they're looking for. For example, if the theme was gardening, you might do something about how to deal with a specific problem with a specific flower, things like that.
             - Vary the structure between posts -- don't always use the same intro/body/conclusion shape or always reach for a bulleted list.
             - Avoid starting posts with a rhetorical question or a "we've all been there" style opener.
             - Never use generic transitional phrases like "in today's world," "it's important to note," "let's dive in," or similar filler openers.
