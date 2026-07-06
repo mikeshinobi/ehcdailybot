@@ -49,7 +49,7 @@ jobs:
           WP_USERNAME: ${{ secrets.WP_USERNAME }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           POST_STATUS: publish
-          SITE_TOPIC: "your site's topic here"
+          SITE_TOPIC: "Home decor, home maintenance, basically all sorts of 'home' stuff."
           SITE_VOICE: "like a knowledgeable friend texting you a tip, a little wry, not afraid to admit when something's annoying or overrated"
           SITE_INSTRUCTIONS: |
             - At least some of the time, try to think of more a "niche" topic that someone might search for, and then give them what they're looking for. For example, if the theme was gardening, you might do something about how to deal with a specific problem with a specific flower, things like that.
