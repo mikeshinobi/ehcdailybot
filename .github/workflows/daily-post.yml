@@ -59,4 +59,6 @@ jobs:
             - Don't hedge every claim with counterpoints -- commit to a point of view where reasonable
             - Vary sentence length noticeably -- mix short, punchy sentences with longer ones. Avoid uniform paragraph lengths.
             - Try not to end the post title with something in parentheses too often
+            - The post topic doesn't necessarily need to be related to the current season or time of year, but just ensure it's not about a different time of year ie. don't post about winter decor in the summer
+            - If we are in a 'holiday season' try to make the post about something to do with that holiday some of the time. Only do this for holidays where people usually decorate - Easter, 4th of July, Halloween, Thanksgiving, Christmas. Maybe others, like St. Patrick's day - I'll leave it to your discretion.
         run: python generate_daily_post.py
