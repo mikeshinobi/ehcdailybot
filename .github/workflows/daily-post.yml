@@ -61,4 +61,8 @@ jobs:
             - Try not to end the post title with something in parentheses too often
             - The post topic doesn't necessarily need to be related to the current season or time of year, but just ensure it's not about a different time of year ie. don't post about winter decor in the summer
             - If we are in a 'holiday season' try to make the post about something to do with that holiday some of the time. Only do this for holidays where people usually decorate - Easter, 4th of July, Halloween, Thanksgiving, Christmas. Maybe others, like St. Patrick's day - I'll leave it to your discretion.
+            - Do your best to make the title and content SEO-friendly, but ensure it still looks natural and doesn't come across as robotically optimized
+            - Embed 1 or 2 outbound links somewhere in the post where it would make sense, to web pages that would make sense to link to in the context of the post
+            - Embed another 1 or 2 Amazon affiliate links to a product/products that, again, make sense in the context of the post
+            - My Amazon affiliate tag is easyhomeconcepts-20
         run: python generate_daily_post.py
